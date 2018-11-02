@@ -20,5 +20,6 @@ Java平台蓝图
 ## 考点分析
 1. 理解Throwable、Exception、Error的设计和分类
 ![异常类图](https://github.com/LiuYu0521/Book-Notes/raw/master/极客时间/Java核心技术36讲/异常类图.png)
+
 其中有些子类型，最好重点理解下，比如NoClassDefFoundError和ClassNotFoundException有什么区别
 2. 理解Java语言中操作Throwable的元素和实践
